@@ -1,0 +1,41 @@
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\bin\Debug\04-PN.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\bin\Debug\04-PN.exe
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\bin\Debug\04-PN.pdb
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\04-PN.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\04-PN.exe
+c:\users\dell\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\04-PN.pdb
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\04-PN.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmDangNhap.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmTaoTaiKhoan.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmGiaoDienNguoiDung.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmQuanLyGiai.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmTuyChonQuanLy.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmSuaBXH.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\04-PN.csproj.ResolveComReference.cache
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\obj\Debug\_04_PN.frmIntro.resources
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\documents\visual studio 2013\Projects\04-PN\04-PN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\04-PN\04-PN\bin\Debug\04-PN.exe.config
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\04-PN.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\04-PN.exe
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\04-PN.pdb
+C:\Users\DELL\Desktop\04-PN\04-PN\bin\Debug\04-PN.exe
+C:\Users\DELL\Desktop\04-PN\04-PN\bin\Debug\04-PN.pdb
+C:\Users\DELL\Desktop\04-PN\04-PN\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\04-PN\04-PN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\04-PN.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmDangNhap.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmGiaoDienNguoiDung.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmIntro.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmQuanLyGiai.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmSuaBXH.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmTaoTaiKhoan.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmTuyChonQuanLy.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.Properties.Resources.resources
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\04-PN.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\04-PN\04-PN\obj\Debug\_04_PN.frmYKien.resources
